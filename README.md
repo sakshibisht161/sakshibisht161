@@ -4,4 +4,5 @@ A passionate Data Science Student from India. I love exploring data, finding ins
 
 - 🌱 *I’m currently learning*: Diploma in Data Science (Data Analysis, Machine Learning, Python).
 - 💬 *Ask me about*: Python, SQL, Excel, and Data Visualization.
+- 📫 *How to reach me*: sakshibisht997@gmail.com
 - ⚡ *Fun fact*: I love playing with numbers and turning raw data into meaningful stories 
