@@ -1,4 +1,5 @@
 # Hi 👋, I'm Sakshi Bisht
+![Data Science Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Data%20Science%20%7C%20Machine%20Learning&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 🚀 Data Science Student | Transforming raw data into actionable insights & predictive models. 
 
