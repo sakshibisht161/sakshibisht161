@@ -1,5 +1,5 @@
 # Hi 👋, I'm Sakshi Bisht
-![Data Science Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DATA%20SCIENCE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=65&descSize=18)
+![Data Science Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,15,20,24,30&height=250&section=header&text=DATA%20SCIENCE&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Python%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descSize=18&descAlignY=65)
 
 🚀 Data Science Student | Transforming raw data into actionable insights & predictive models. 
 
