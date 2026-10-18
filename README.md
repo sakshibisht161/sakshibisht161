@@ -1,6 +1,9 @@
 # Hi 👋, I'm Sakshi Bisht
-![Colorful Data Science](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello%20Data%20World!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Turning%20Data%20Into%20Insights&descSize=20&descAlignY=65)
-
+<p align="center">
+  <img src="./images/data-science-banner.png" 
+       alt="Data Science Banner"
+       width="100%">
+</p>
 🚀 Data Science Student | Transforming raw data into actionable insights & predictive models. 
 
 - 🌱 *I’m currently learning*: Diploma in Data Science (Data Analysis, Machine Learning, Python).
