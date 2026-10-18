@@ -1,9 +1,6 @@
 # Hi 👋, I'm Sakshi Bisht
-<p align="center">
-  <img src="./images/data-science-banner.png" 
-       alt="Data Science Banner"
-       width="100%">
-</p>
+![Data Science](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=DATA%20SCIENCE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descSize=18&descAlignY=62)
+
 🚀 Data Science Student | Transforming raw data into actionable insights & predictive models. 
 
 - 🌱 *I’m currently learning*: Diploma in Data Science (Data Analysis, Machine Learning, Python).
