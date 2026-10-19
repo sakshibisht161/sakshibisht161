@@ -2,19 +2,6 @@
   Hi 👋, I'm Sakshi Bisht
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakshi+Bisht;Data+Science+Student+%F0%9F%96%A5%EF%B8%8F"
-  alt="Hi, I'm Sakshi Bisht"
-  />
-</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:111827,100:312e81&height=3&section=header&width=600" />
-</p>
-
-<h3 align="center">
-  <font color="#FFFFFF">Data Science Student | Python | Machine Learning</font>
-</h3>
 
 ![Data Science Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=DATA%20SCIENCE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descSize=18&descAlignY=65)
 
