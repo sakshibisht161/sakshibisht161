@@ -1,4 +1,3 @@
-# Hi 👋, I'm Sakshi Bisht
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sakshi+Bisht;Data+Science+Student+%F0%9F%96%A5%EF%B8%8F"
   alt="Hi, I'm Sakshi Bisht"
