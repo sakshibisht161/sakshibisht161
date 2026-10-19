@@ -1,5 +1,5 @@
 <h1 align="center" style="color: white; background-color: #0d1117;">
-  # Hi 👋, I'm Sakshi Bisht
+  Hi 👋, I'm Sakshi Bisht
 </h1>
 
 ![Data Science Banner](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=DATA%20SCIENCE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descSize=18&descAlignY=65)
