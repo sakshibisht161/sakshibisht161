@@ -34,6 +34,41 @@
 ![](https://streak-stats.demolab.com/?user=sakshibisht161&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sakshibisht161&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sakshibisht161
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sakshibisht161&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
