@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sakshi Bisht
+# Hi 👋
 
 <div align="center">
 
